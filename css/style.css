@@ -52,6 +52,11 @@ img:hover {
   width: 48%;
 }
 
+.column-2 {
+  display: inline-flex;
+  width: auto;
+}
+
 
 
 
