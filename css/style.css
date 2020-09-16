@@ -52,12 +52,14 @@ img:hover {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
-  vertical-align: right;
+  vertical-align: left;
 }
 
 .column-2 {
-  display: inline-block;
-  vertical-align: left;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  vertical-align: right;
 }
 
 
