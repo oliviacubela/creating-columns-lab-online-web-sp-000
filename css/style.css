@@ -55,7 +55,7 @@ img:hover {
 .column-2 {
   display: inline-block;;
   width: auto;
-  vertical-align: top;
+  vertical-align: baseline;
 }
 
 
