@@ -52,8 +52,6 @@ img:hover {
   width: 30.33%;
 }
 
-
-
 /* create your tile classes! we recommend .small .med .large */
 
 .small {
@@ -70,8 +68,3 @@ img:hover {
   width: 300%;
   max-width: 100%;
 }
-/*
-img.large, img.small, form, input, table, video, audio, iframe {
-	width: 100%;
-	max-width: 100%;
-}*/
