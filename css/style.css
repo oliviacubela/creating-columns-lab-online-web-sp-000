@@ -53,7 +53,7 @@ img:hover {
 }
 
 .column-2 {
-  display: inline-flex;
+  display: inline-block;
   width: auto;
 }
 
