@@ -56,15 +56,12 @@ img:hover {
 
 .small {
   width: 100%;
-  max-height: 100%;
 }
 
 .med {
   width: 200%;
-  max-height: 100%;
 }
 
 .large {
   width: 300%;
-  max-height: 100%;
 }
