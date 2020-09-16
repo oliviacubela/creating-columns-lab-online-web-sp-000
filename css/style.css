@@ -49,7 +49,7 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column {
   display: inline-block;
-  width: 48%;
+  width: 30.33%;
 }
 
 
@@ -70,8 +70,8 @@ img:hover {
   width: 300%;
   max-width: 100%;
 }
-
-/*img.large, img.small, form, input, table, video, audio, iframe {
+/*
+img.large, img.small, form, input, table, video, audio, iframe {
 	width: 100%;
 	max-width: 100%;
 }*/
