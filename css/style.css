@@ -48,11 +48,11 @@ img:hover {
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column-1 {
-  display: block;
+  display: inline-block;
 }
 
 .column-2 {
-  display: block;
+  display: inline-block;
 }
 
 
