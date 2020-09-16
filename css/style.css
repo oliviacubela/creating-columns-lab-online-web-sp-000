@@ -50,12 +50,12 @@ img:hover {
 .column-1 {
 
   display: inline-block;
-  vertical-align: top;
+  vertical-align: right;
 }
 
 .column-2 {
   display: inline-block;
-  vertical-align: top;
+  vertical-align: left;
 }
 
 
